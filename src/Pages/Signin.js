@@ -11,7 +11,6 @@ const Signin = () => {
       console.log(error);
     }
   };
-
   const renderButton = () => {
     if (user) {
       return (
@@ -33,7 +32,6 @@ const Signin = () => {
       );
     }
   };
-
   return (
     <div className="facebook-container">
       <h2 className="text">Firebase Auth</h2>
