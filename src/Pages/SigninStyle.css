@@ -1,0 +1,13 @@
+.facebook-container{
+  margin: 50px 500px;
+  padding: 50px 50px;
+  height: 500px;
+  width: 550px;
+  background-color: #CECECE;
+}
+.user-email{
+  font-family: Lato;
+  font-weight: 900;
+  font-size: 20px;
+  
+}
